@@ -1,11 +1,8 @@
 some information here
 ---
-layout: pages
+layout: splash
 title:  "Welcome to Jekyll!"
+permalink: /resume
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+Resume resume resume
