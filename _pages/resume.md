@@ -1,8 +1,9 @@
 some information here
 ---
-layout: splash
+layout: single
 title:  "Welcome to Jekyll!"
 permalink: /resume
+filename: _pages/resume.md
 ---
 
 Resume resume resume
