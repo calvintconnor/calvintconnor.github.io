@@ -33,11 +33,10 @@ feature_row:
 
 # Calvin Connor
 
-## CYBER-SECURITY/NETWORKING
 
 Greensburg, PA | 740.921.4264 | calvintconnor@gmail.com
 
-Experience
+### Experience
 
 Technology Trainer | St. Clairsville Public Library 2021 - 2023
 
@@ -46,30 +45,21 @@ Material and operated as the IT help desk for the library.
 
 • Assisted the Network Admin in maintaining and securing the network.
 
-Education
+### Education
 
 Belmont College, Associate of Networking 2022
-
-Completion of the Cisco Networking Academy
+  Completion of the Cisco Networking Academy
 
 Belmont College, Associate of Cyber-Security 2022
 
-Certifications
+### Certifications
 
 OSCP (Offensive Security Certified Professional certification) 2023
-
-110/100 Points
+  110/100 Points
 
 PNPT (Practical Network Penetration Tester) 2023
 
-Skills
+### Skills
 
-• Linux/Windows
-
-• Python
-
-• Active Directory
-
-• SQL
-
-• IT Support
+• Linux/Windows • Python • Active Directory
+• SQL • IT Support
