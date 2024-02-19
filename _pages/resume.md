@@ -17,10 +17,18 @@ btn_class: "btn--inverse"
 url: "/assets/Calvin Connor Resume 1.1.pdf"
 btn_class2: "btn--inverse"
 btn_label2: "Resume .pdf"
----
-Calvin Connor
 
-CYBER-SECURITY/NETWORKING
+ - image_path:
+    alt: "Resume .pdf"
+    title: ""
+    url: "assets/Calvin Connor Resume 1.1.pdf"
+    btn_label: "Resume"
+    btn_class: "btn--inverse"
+  - image_path:
+---
+# Calvin Connor
+
+## CYBER-SECURITY/NETWORKING
 
 Greensburg, PA | 740.921.4264 | calvintconnor@gmail.com
 
