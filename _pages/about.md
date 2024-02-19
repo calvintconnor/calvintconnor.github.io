@@ -13,26 +13,21 @@ header:
 excerpt: "Aspiring cyber securty professional<br><br>"
 feature_row:
   - image_path: /assets/images/uncertainty.jpg
-    alt: "Semantic Segmentation"
+    alt: "Blog"
     title: ""
     url: "blog"
     btn_label: "Blog"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/alex_google_talk.png
+  - image_path: /fabio-oyXis2kALVg-unsplash.jpg
     title: ""
-    url: "talks"
-    btn_label: "Talks"
+    url: "resume"
+    btn_label: "Resume"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/poster.jpg
-    alt: "CVPR 2017 Conference Poster"
-    title: ""
-    url: "publications"
-    btn_label: "Publications"
-    btn_class: "btn--inverse"
+  - image_path: /assets/fabio-oyXis2kALVg-unsplash.jpg
 ---
 
-## Brief Bio
-mouseneurship.
+## Bio
+Like any great inspiring character I have based every username in my life off of my very first Minecraft account. Combining my love for Cookiemonster and Optimus Prime "cookeprime" was born and has lived with me until this very day.
 
 <div id='featured'></div>
 
