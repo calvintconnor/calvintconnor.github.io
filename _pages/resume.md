@@ -26,6 +26,12 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path:
 ---
+
+<div id='featured'></div>
+
+{% include feature_row %}
+
+
 # Calvin Connor
 
 ## CYBER-SECURITY/NETWORKING
