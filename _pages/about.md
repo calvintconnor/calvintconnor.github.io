@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/maximalfocus-VT4rx775FT4-unsplash.jpg
   caption: "Photo: [unsplash](unsplash.com)"
-excerpt: "Aspiring cyber securty professional<br><br>"
+excerpt: "Aspiring cyber security professional<br><br>"
 feature_row:
   - image_path:
     alt: "Blog"
