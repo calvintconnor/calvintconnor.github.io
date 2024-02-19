@@ -3,8 +3,8 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: <br><br><br><br><br><br>Alex Kendall
-permalink: /about
+title: <br><br><br><br><br><br>Calvin Connor
+permalink: /about/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
