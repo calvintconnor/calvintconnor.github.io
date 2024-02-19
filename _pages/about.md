@@ -19,6 +19,7 @@ feature_row:
     btn_label: "Blog"
     btn_class: "btn--inverse"
   - image_path: /fabio-oyXis2kALVg-unsplash.jpg
+    alt: "Resume"
     title: ""
     url: "resume"
     btn_label: "Resume"
