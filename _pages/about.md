@@ -12,19 +12,19 @@ header:
   caption: "Photo: [unsplash](unsplash.com)"
 excerpt: "Aspiring cyber securty professional<br><br>"
 feature_row:
-  - image_path: /assets/images/uncertainty.jpg
+  - image_path:
     alt: "Blog"
     title: ""
     url: "blog"
     btn_label: "Blog"
     btn_class: "btn--inverse"
-  - image_path: /assets/fabio-oyXis2kALVg-unsplash.jpg
+  - image_path:
     alt: "Resume"
     title: ""
     url: "resume"
     btn_label: "Resume"
     btn_class: "btn--inverse"
-  - image_path: /assets/fabio-oyXis2kALVg-unsplash.jpg
+  - image_path:
 ---
 
 ## Bio
@@ -43,6 +43,6 @@ Interviews:
 Projects at Saint Clairsville Public Library: 
 * 2023 [st-c-librarys-lego-to-go-program-a-big-hit/](https://ledenews.com/st-c-librarys-lego-to-go-program-a-big-hit/) Lede News
 * 2023 [new-you-3d-printing](https://stclibrary.org/content/new-you-3d-printing) Saint Clairsville Public Library
-* 2023 [Article](https://www.timesleaderonline.com/news/local-news/2023/12/st-clairsville-library-esports-league-places-in-finals/) The Times Leader
+* 2023 [st-clairsville-library-esports-league-places-in-finals](https://www.timesleaderonline.com/news/local-news/2023/12/st-clairsville-library-esports-league-places-in-finals/) The Times Leader
 
 ---
