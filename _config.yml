@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Calvin Connor"
+title                    : "calvintconnor.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Exploding Ingenuity"
@@ -107,7 +107,7 @@ author:
   name             : "Calvin Connor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "After graduating with an associates degree in Cyber Security and Computer Networking I spent the next few months earning both the OSCP and PNPT certifications. Since then I have regularly done HTB boxes, researched the latest security concepts, and grown my skills in penetration testing."
-  location         : "Somewhere"
+  location         : "Greensburg, PA"
   email            :
   links:
     - label: "Email"
