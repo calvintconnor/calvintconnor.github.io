@@ -4,19 +4,19 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: <br><br><br><br><br>Selected Talks
+title: <br><br><br><br><br>Resume
 permalink: /resume/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/trinity.jpg
-  caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
+  caption: "Photo: [Unsplash](Unsplash)"
 
 btn_label: "Download a copy (.pdf)"
 btn_class: "btn--inverse"
-url: "/media/presentations/2019_icvss_sicily_kendall.pdf"
+url: "/assets/Calvin Connor Resume 1.1.pdf"
 btn_class2: "btn--inverse"
-btn_label2: "Presentation (.pptx, 2.5gb!)"
+btn_label2: "Resume .pdf"
 ---
 Calvin Connor
 
