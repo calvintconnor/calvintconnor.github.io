@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Calvin Connor"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "After graduating with an associates degree in Cyber Security and Computer Networking I spent the next few months earning both the OSCP and PNPT certifications. Since then I have regularly done HTB boxes, researched the latest security concepts, and grown my skills in penetration testing."
   location         : "Somewhere"
   email            :
   links:
