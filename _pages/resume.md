@@ -18,13 +18,12 @@ url: "/assets/Calvin Connor Resume 1.1.pdf"
 btn_class2: "btn--inverse"
 btn_label2: "Resume .pdf"
 feature_row:
- - image_path:
-    alt: "Resume .pdf"
-    title: ""
-    url: "assets/Calvin Connor Resume 1.1.pdf"
-    btn_label: "Resume"
-    btn_class: "btn--inverse"
   - image_path:
+    alt: "Blog"
+    title: ""
+    url: "blog"
+    btn_label: "Blog"
+    btn_class: "btn--inverse"
 ---
 
 <div id='featured'></div>
