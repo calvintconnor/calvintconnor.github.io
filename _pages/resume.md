@@ -17,7 +17,7 @@ btn_class: "btn--inverse"
 url: "/assets/Calvin Connor Resume 1.1.pdf"
 btn_class2: "btn--inverse"
 btn_label2: "Resume .pdf"
-
+feature_row:
  - image_path:
     alt: "Resume .pdf"
     title: ""
