@@ -8,9 +8,9 @@ permalink: /about/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/trinity.jpg
-  caption: "Photo: [Olly McMillan](https://www.youtube.com/watch?v=kQkZeXHfgwA&t=1s)"
-excerpt: "CEO at Wayve; former Research Fellow at the University of Cambridge<br><br>"
+  overlay_image: /assets/maximalfocus-VT4rx775FT4-unsplash.jpg
+  caption: "Photo: [unsplash](unsplash.com)"
+excerpt: "Aspiring cyber securty professional<br><br>"
 feature_row:
   - image_path: /assets/images/uncertainty.jpg
     alt: "Semantic Segmentation"
