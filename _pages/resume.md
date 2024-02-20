@@ -24,6 +24,19 @@ feature_row:
     url: "/assets/Calvin Connor Resume 1.1.pdf"
     btn_label: "Resume .pdf"
     btn_class: "btn--inverse"
+    
+btn_label: "Download a copy (.docx)"
+btn_class: "btn--inverse"
+url: "/assets/Calvin Connor Resume 1.1.pdf"
+btn_class2: "btn--inverse"
+btn_label2: "Resume .pdf"
+feature_row:
+  - image_path:
+    alt: "Resume .pdf"
+    title: ""
+    url: "/assets/Calvin Connor Resume 1.1.pdf"
+    btn_label: "Resume .pdf"
+    btn_class: "btn--inverse"
 ---
 
 <div id='featured'></div>
@@ -78,4 +91,5 @@ biography please visit:
 Website: calvintconnor.github.io
 
 ♦ Skills
+
 • Linux/Windows • Python • Active Directory • SQL • IT Support • Help Desk • Networking • VPN • IT Support • Firewall • Servers • Kali Linux • Penetration Testing
