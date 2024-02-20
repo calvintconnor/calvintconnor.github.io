@@ -21,7 +21,7 @@ feature_row:
   - image_path:
     alt: "Blog"
     title: ""
-    url: "blog"
+    url: "/assets/Calvin Connor Resume 1.1.pdf"
     btn_label: "Blog"
     btn_class: "btn--inverse"
 ---
@@ -34,16 +34,25 @@ feature_row:
 # Calvin Connor
 
 
-Greensburg, PA | 740.921.4264 | calvintconnor@gmail.com
+## Greensburg, PA | 740.921.4264 | calvintconnor@gmail.com
 
 ### Experience
 
-Technology Trainer | St. Clairsville Public Library 2021 - 2023
+IT Support Specialist | DR Technology Solutions 2024 - Present 
 
-• Trained the public on how to use technology with classes, appointments, and educational
-Material and operated as the IT help desk for the library.
+  • Served as first point of contact to diagnose and triage business IT problems by answering 
+phones, emails, and tickets. Responsible for going onsite to install or repair customer infrastructure 
+and software.
+  • Supported local businesses IT needs related to firewalls, networking and switching, VPNs, cyber 
+security principles, antivirus, remote support, hardware, cloud infrastructure and backups, Windows 
+Domains, and local server solutions.
 
-• Assisted the Network Admin in maintaining and securing the network.
+Technology Trainer | St. Clairsville Public Library 2021 – 2023
+
+  • Trained the public on how to use technology with classes, appointments, and educational 
+materials ranging from complete beginner to advanced users.
+  • Assisted the Network Admin in maintaining and securing the network while also acting as IT help 
+desk for any employee or patron technology related problems.
 
 ### Education
 
@@ -51,6 +60,7 @@ Belmont College, Associate of Networking 2022
   Completion of the Cisco Networking Academy
 
 Belmont College, Associate of Cyber-Security 2022
+  Completion of the CompTIA A+ and Security+ classes
 
 ### Certifications
 
@@ -59,7 +69,13 @@ OSCP (Offensive Security Certified Professional certification) 2023
 
 PNPT (Practical Network Penetration Tester) 2023
 
-### Skills
+♦ Projects
 
-• Linux/Windows • Python • Active Directory
-• SQL • IT Support
+Home AD lab involving five servers setup with Windows Server and clients ■ Home Linux server photo 
+sharing website publicly available ■ Over thirty HTB boxes rooted ■ For write-ups, scripts, reviews, and 
+biography please visit:
+
+Website: calvintconnor.github.io
+
+♦ Skills
+• Linux/Windows • Python • Active Directory • SQL • IT Support • Help Desk • Networking • VPN • IT Support • Firewall • Servers • Kali Linux • Penetration Testing
