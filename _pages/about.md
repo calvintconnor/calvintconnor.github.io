@@ -11,24 +11,10 @@ header:
   overlay_image: /assets/maximalfocus-VT4rx775FT4-unsplash.jpg
   caption: "Photo: [unsplash](unsplash.com)"
 excerpt: "Aspiring cyber security professional<br><br>"
-feature_row:
-  - image_path:
-    alt: "Blog"
-    title: ""
-    url: "blog"
-    btn_label: "Blog"
-    btn_class: "btn--inverse"
-  - image_path:
-    alt: "Resume"
-    title: ""
-    url: "resume"
-    btn_label: "Resume"
-    btn_class: "btn--inverse"
-  - image_path:
 ---
 
 ## Bio
-Like any great inspiring character I have based every username in my life off of my very first Minecraft account. Combining my love for Cookiemonster and Optimus Prime "cookeprime" was born and has lived with me until this very day.
+During working hours you can find me working on vpns, assisting clients with their custom server and phone solutions, creating and managing cloud backup and email security, and generally always finding something new to learn. In my off time I enjoy configuring my home server setup, messing around in linux, reading and practicing HTB writeups - especially IppSec -, and still always finding something to learn.
 
 <div id='featured'></div>
 
