@@ -72,15 +72,3 @@ As for what do after the OSCP, I will have to update this when I gain more exper
 However, if you are still feeling unsure and want more resources, please check out the links below. I did not want to bloat this post with too much information. Rather, all the posts below expand on topics I touched above to give you the alumni tips for everything you are about to do. These are what I wish I knew before I started doing each of these topics.
 
 
-
-
-{% capture fig_img %}
-![Foo]({{ "/assets/images/reconstruction_cambridge.jpg" | absolute_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>A structure from motion reconstruction of the geometry around central Cambridge, UK - produced from my phone's video camera.</figcaption>
-</figure>
-
-
