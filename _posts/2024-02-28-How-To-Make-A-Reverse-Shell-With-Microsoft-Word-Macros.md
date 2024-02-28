@@ -20,29 +20,7 @@ tags:
 
 ## High Level
 
----
-title: "How To Make A Reverse Shell With Microsoft Word Macros"
-layout: single
-read_time: true
-comments: true
-share: true
-author_profile: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/christopher-burns-Kj2SaNHG-hg-unsplash.jpg
-excerpt: "<br><br><br>"
-categories:
-  - Tutorials
-tags:
-  - cyber security
-  - penetration testing
-  - oscp
----
-
-## High Level
-
-By leveraging VBA code in a macro inside of a Microsoft Word document we can leverage Windows APIs to do a lot of functionality like open and run commands in command prompt. The user must enable both editing mode and macros or else Microsoft Word will not let command prompt run our reverse shell. We will use some tips and tricks like making sure command prompt does not open visually, making the macro actually run without the user having to do anything but enable it, and it a future post running our payload in memory to leave no trace.
+By leveraging VBA code in a macro inside of a Microsoft Word document we can leverage functionality to open and run command prompts. The user must enable both editing mode and macros or else Microsoft Word will not let command prompt run our reverse shell. We will use some tips and tricks like making sure command prompt does not open visually, making the macro actually run without the user having to do anything to enable it, and it a future post running our payload in memory to leave no trace. Most Microsoft Word users are used to having to "enable editing" and as such rarely question when they have to do it. The tricky part is either hoping or coaxing the user into allowing macros as well; a pop up far less users see and might question at first.
 
 ## Microsoft Word Setup
 
