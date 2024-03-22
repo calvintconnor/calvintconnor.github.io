@@ -1,4 +1,3 @@
-
 ---
 title: "Create A Phishing Word Document With Macros To Get A Reverse Shell"
 layout: single
