@@ -49,6 +49,3 @@ feature_row:
 
 Coming Soon...
 
-♦ Skills
-
-• Linux/Windows • Python • Active Directory • SQL • IT Support • Help Desk • Networking • VPN • IT Support • Firewall • Servers • Kali Linux • Penetration Testing
