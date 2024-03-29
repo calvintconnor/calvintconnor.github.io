@@ -14,7 +14,7 @@ excerpt: "Aspiring cyber security professional<br><br>"
 ---
 
 ## Bio
-During working hours you can find me working on vpns, assisting clients with their custom server and phone solutions, creating and managing cloud backup and email security, and generally always finding something new to learn. In my off time I enjoy configuring my home server setup, messing around in linux, reading and practicing HTB writeups - especially IppSec -, and still always finding something to learn.
+During working hours you can find me working on vpns, assisting clients with their custom server and phone solutions, creating and managing cloud backup and email security, and generally always finding something new to learn. In my off time I enjoy configuring my home server setup, automating my life with custom scripts, messing around in Linux, reading and practicing HTB writeups - especially IppSec -, and always finding something new to learn.
 
 <div id='featured'></div>
 
