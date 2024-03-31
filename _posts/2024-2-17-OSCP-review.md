@@ -23,6 +23,16 @@ This post has three headings depending on what information you need:
 2. The Down Low is everything you want to know about the exam: how it feels, what you need to be prepared for, and what to expect.
 3. Now What? is my expanding on the OSCP and where and what it fails to teach you.
 
+{% capture fig_img %}
+![Foo]({{ "/assets/20240331_104510.mp4" | absolute_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>TCM Security Certification PNPT.</figcaption>
+</figure>
+
+
 
 ## My Journey
 
