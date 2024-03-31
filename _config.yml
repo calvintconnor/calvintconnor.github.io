@@ -25,7 +25,7 @@ url                      : "https://calvintconnor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "calvintconnor/calvintconnor.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/C.png"
+logo                     : "/assets/C(1).png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Calvin Connor"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/C.png"
   bio              : "After graduating with an associates degree in Cyber Security and Computer Networking I spent the next few months earning both the OSCP and PNPT certifications. Since then I have regularly done HTB boxes, researched the latest security concepts, and grown my skills in penetration testing."
   location         : "Greensburg, PA"
   email            :
