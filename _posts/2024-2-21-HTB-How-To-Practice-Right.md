@@ -17,19 +17,6 @@ tags:
   - HTB
 ---
 
-
-
-
-{% capture fig_img %}
-![Foo]({{ "/assets/" | absolute_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption> </figcaption>
-</figure>
-
-
 ## My Journey
 Like many who may be reading this, I first learned about Hack The Box when I started my journey to become a penetration tester. I scoured the internet for blog posts on the OSCP and other security certifications to try and get an alumni opinion of how best to break into the cybersecurity world. Over and over again, I kept hearing the same phrase: Hack The Box. I struggled for many months perfecting the art of extracting the most information from HTB labs and write-ups. That is exactly what I want to share with you today, everything that those countless blog posts still failed to mention or warn against. For context, this information is coming from the point of view of never having done any type of penetration testing before.
 
