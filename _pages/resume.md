@@ -86,7 +86,31 @@ and 0xdf before creating a penetration testing report. app.hackthebox.com/profil
 programming languages.
 
 
+# Cover Letter
 
+# Calvin Connor
+## Greensburg, PA | 740.921.4264 | calvintconnor@gmail.com
+
+To whom it may concern,
+What makes a great cybersecurity professional? Some may say it is certifications, experience,
+or education, but you and I know it as the naturally inquisitive want to understand something new.
+Where others are satisfied with results without understanding, you can rely on me to pursue every
+topic to its deepest subject. While I do possess the certifications, experience, and education that
+others expect, I am also unafraid to put my whole life into my work. When you hire me, you do not just
+get my knowledge, you get the enthusiastic, meticulous, rigorous methodology that has driven me this
+far.
+In my free time have studied and passed both the OSCP (Offensive Security Certified
+Professional) and PNPT (Practical Network Penetration Tester) ethical hacking certifications while
+working as a network administrator. I regularly complete the latest HTB boxes, configure my own
+home lab, and write about security topics on my blog. I have a desire and passion to learn, a need for
+achievement, and a hunger to do whatever I do to the absolute best of its capacity. Furthermore, I
+know beyond any doubt my quality of work will far surpass anyone else, and I have proven countless
+times in my previous positions that I can push quality beyond the highest of standards.
+
+
+Thank You,
+
+Calvin T. Connor
 
 
 
