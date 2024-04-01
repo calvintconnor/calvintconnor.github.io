@@ -52,27 +52,36 @@ Network Administrator | DR Technology Solutions 2024 - Present
 • Supported local business’ IT needs aligning to firewalls, networking, VPNs, cybersecurity training, antivirus,
 remote support, Microsoft 365 and Azure, cloud infrastructure and backups, active directory, and local server solutions.
 Served as the Network Administrator for over a hundred small to medium businesses, tallying over a thousand users.
+
 Technology Trainer | St. Clairsville Public Library 2021 – 2023
 • Created and organized large IT projects in the library, ranging from employee computer literacy, esports
 tournaments, school technology classes and demonstrations. Regularly advanced the cybersecurity posture of the
 library while serving the technological needs of the service area.
+
 ## ♦ Education
 Associate of Computer Networking, Belmont College 2020 - 2022
 Completion of the Cisco Networking Academy
+
 Associate of Cybersecurity, Belmont College 2020 - 2022
 Completion of the CompTIA A+, Network+, and Security+ classes
+
 ## ♦ Certifications
 OSCP (Offensive Security Certified Professional certification) 2023
+
 PNPT (Practical Network Penetration Tester) 2023
+
 CISSP (Certified Information Systems Security Professional) Expected 2024
+
 ## ♦ Projects
 Home AD lab involving five servers installed with Windows Server and clients ■ Home Linux server photo sharing website
 made publicly available ■ Hacking mentorship program involving assisting beginner hackers with passing the OSCP
 For write-ups, scripts, reviews, biography, and other security topics please visit:
 calvintconnor.github.io
+
 ## ♦ Skills
 • Regular completion and studying of the latest Hack the Box machines by studying and emulating both IppSec
 and 0xdf before creating a penetration testing report. app.hackthebox.com/profile/1159278
+
 • Comfortable in automating tasks by using python and PowerShell. Can read and understand most other
 programming languages.
 
