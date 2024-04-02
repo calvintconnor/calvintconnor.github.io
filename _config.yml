@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Calvin Connor"
   avatar           : "/assets/C.png"
-  bio              : "After graduating with an associates degree in Cyber Security and Computer Networking I spent the next few months earning both the OSCP and PNPT certifications. Since then I have regularly done HTB boxes, researched the latest security concepts, and grown my skills in penetration testing."
+  bio              : "After graduating with an associates degree in Cybersecurity and Computer Networking I spent the next few months earning both the OSCP and PNPT certifications. Since then I have regularly done HTB boxes, researched the latest security concepts, and grown my skills in penetration testing."
   location         : "Greensburg, PA"
   email            :
   links:
