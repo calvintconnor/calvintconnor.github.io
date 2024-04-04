@@ -10,11 +10,11 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/maximalfocus-VT4rx775FT4-unsplash.jpg
   caption: "Photo: [unsplash](unsplash.com)"
-excerpt: "Aspiring cyber security professional<br><br>"
+excerpt: "Aspiring cybersecurity professional<br><br>"
 ---
 
 ## Bio
-During working hours you can find me working on vpns, assisting clients with their custom server and phone solutions, creating and managing cloud backup and email security, and generally always finding something new to learn. In my off time I enjoy configuring my home server setup, automating my life with custom scripts, messing around in Linux, reading and practicing HTB writeups - especially IppSec -, and always finding something new to learn.
+Running a marathon and hacking my first box solicitated the same challenge inside myself: do whatever I do to the best of my ability. It does not matter if its your first engagement or your thousandth, you approach every one as if it is going to be your best one so far. This mentality has driven me to become a bodybuilder, hacker, and cybersecurity consultant while pursuing excellence in each respective field. As C.S. Lewis once said, “You are never too old to set another goal or to dream a new dream”.
 
 <div id='featured'></div>
 
