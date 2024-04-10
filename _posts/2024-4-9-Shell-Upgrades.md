@@ -19,7 +19,7 @@ tags:
 ---
 
 
-## Linux
+## Unix
 
 ## Windows
 
