@@ -1,5 +1,5 @@
 ---
-title: "Upgrade A Unix/Windows Shell"
+title: "Upgrade A Linux Shell"
 layout: single
 read_time: true
 comments: true
@@ -20,9 +20,9 @@ tags:
 Too often we get dropped into a shell that has no arrow keys and looks and feels broken. As a beginner, and as I once did, you might sorrowfully accept that this will be the state of all your shells for the rest of your life. However, this does not have to be the case. This blog post is here to show you what I stumbled upon months into my hacking journey so that you can fly where I tripped.
 
 
-Upgrading A Unix Shell
+Upgrading A Linux Shell
 
-The most common method of upgrading your shell on a Unix machine is by using Python. Python allows us to spawn a pseudo-shell far fancier than anything you could imagine.
+The most common method of upgrading your shell on a Linux machine is by using Python. Python allows us to spawn a pseudo-shell far fancier than anything you could imagine.
 
 You can use the ‘which’ command to find out what Python, if any, is installed on your box. Please note that using the 'which' command only shows you programs in $PATH, but Python will almost always be there. This is good to add to your tool belt, but soon you will just skip over it.
 
@@ -58,7 +58,7 @@ stty raw -echo; fg # can enter separately
 export TERM=xterm-256color
 # Press Enter a few times and clear screen
 ```
-Upgrading A Unix Shell With zsh
+Upgrading A Linux Shell With zsh
 Sometimes things fail. The above will not always work and I have more often than I would like to admit gotten a bricked shell with the commands above. If you are using Kali Linux there is a good chance that your zsh shell is breaking things. Use the following command to verify if you are running zsh.
 
 ```
