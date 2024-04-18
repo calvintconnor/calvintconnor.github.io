@@ -13,7 +13,7 @@ excerpt: "<br><br><br>"
 categories:
   - certification
 tags:
-  - cyber security
+  - cybersecurity
   - penetration testing
   - oscp
 ---
@@ -23,36 +23,27 @@ This post has three headings depending on what information you need:
 2. The Down Low is everything you want to know about the exam: how it feels, what you need to be prepared for, and what to expect.
 3. Now What? is my expanding on the OSCP and where and what it fails to teach you.
 
-{% capture fig_img %}
-![Foo]({{ "/assets/20240331_104510.mp4" | absolute_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>TCM Security Certification PNPT.</figcaption>
-</figure>
-
 
 
 ## My Journey
 
-On a late night in November 2023, I officially passed the OSCP. Ten years before that, I was a child following YouTube tutorials to make my own web pages in HTML and CSS. But did I really need that start almost ten years ago to make it to where I am now? The answer is no; and I also want to show you why or why not, the OSCP is not really that hard. Yes, I was making websites since before I even really knew how the internet worked, but none of that prepared me for the exam I had just taken. You do not have to love technology and hacking your whole life to even be able to stand a chance against the OSCP. A word of caution, it will take more effort than you are accounting for. So where did I really begin?
+On a late night in November 2023, I officially passed the OSCP. Ten years before that, I was a child following YouTube tutorials to make my own web pages in HTML and CSS. But did I really need that start to make it to where I am now? The answer is no, and I also want to show you why or why not the OSCP is not really that hard. Yes, I was making websites since before I even really knew how the internet worked, but none of that prepared me for the exam I had just taken. You do not have to love technology and hacking your whole life to even be able to stand a chance against the OSCP. A word of caution, it will take more effort than you are accounting for. So where did I really begin?
 
-Even though I had been making websites for forever, I was not that into technology. In fact, no one in my life recognized me as some kind of tech genius or encouraged me to go into this field. Because in my heart, I am not a tech junkie. I love learning; I always have, and I always will. What I am at the core is a learner. That is what makes me so great at technology: I have an earnest desire and passion to understand everything about something. I am a tinkerer, a researcher, someone who spends countless hours going down rabbit hole after rabbit hole for what should have been a simple question. If you are on your OSCP journey, and you feel this way too, then it is a great sign. It is not a requirement, but the truth of what makes getting the OSCP an enjoyable experience versus a never-ending security nightmare.
+Even though I had been making websites for forever, I was not that into technology. In fact, no one in my life recognized me as some kind of tech genius or encouraged me to go into this field. Because in my heart, I am not a tech junkie. I love learning; I always have, and I always will. That is what makes me so great at technology. I have an earnest desire and passion to understand everything about something. I am a tinkerer, a researcher, someone who spends countless hours going down rabbit hole after rabbit hole for what should have been a simple question. If you are on your OSCP journey, and you feel this way too, then it is a great sign. It is not a requirement, but the truth of what makes getting the OSCP an enjoyable experience versus a never-ending security nightmare.
 
-My technical training for the OSCP began when I went off to college. For sake of transparency, I did not go to a fancy college. In fact, I went to a local community college that cost me less than 10,000 dollars total. I also knew when I went to college that I simply could not do four years, as I did not believe that value was worth it. So instead, I signed up for a dual major in cybersecurity and computer networking. Upon graduation, I received an associate in both.
+My technical training for the OSCP began when I went off to college. I went to a local community college that cost me less than 10,000 dollars in total. I also knew when I went to college that I simply could not do four years, as I did not believe the time invested was worth it. So instead, I signed up for a dual major in cybersecurity and computer networking. Upon graduation, I received an associate in both.
 
-My college classes consisted of things like A+, Cisco Networking Academy, Security+, and a multitude of other networking topics and classes. My cybersecurity classes were very lax and often only covered broad topics, while my networking classes involved creating your own VLANs, diving into the OSI model, and understanding networking to its most rudimentary core. 
+My college classes consisted of A+, Cisco Networking Academy, Security+ networking topics and classes. My cybersecurity classes were very lax and often only covered broad topics, while my networking classes involved creating your own VLANs, diving into the OSI model, and understanding networking to its most rudimentary core. 
 
 Shortly before completing my degrees, I secured my first job out of sheer luck for a local library as their Help Desk agent. This included answering the phone, emails, and in person meetings to answer and solve people’s technological questions. This help desk job rarely required the knowledge I had gathered in college. Luckily, the Network Admin there took me under his wing and started to show me the side of network administration and solutions in a real-world environment. It was quite refreshing to see everything you had learned in school played out for real business needs.
 
-After almost two years of working there, I decided I not only needed a change of scenery, but that I wanted to do more. That is what set me onto what I now know is the OSCP and PNPT. Through a combination of reaching out to my previous cybersecurity teacher at college and a few late nights researching different fields I could go into, I finally decided on achieving the OSCP. Everything I had researched, and the nudging of my teacher, told me this was the certification to get and strive for as someone who had no idea what they were doing. Before I decided to achieve the OSCP I had not completed a single box on HTB or any platform, nor did I know that was an option, but I knew that it was what I wanted to do.
+After almost two years of working there, I decided I not only needed a change of scenery, but that I wanted to do more. That is what set me onto what I now know is the OSCP and PNPT. Through a combination of reaching out to my previous cybersecurity teacher at college and a few late nights researching different fields I could go into, I finally decided on becoming a penetration tester. Everything I had researched, and the nudging of my teacher, told me this was the certification to get and strive for as someone who had no idea what they were doing. Before I decided to achieve the OSCP I had not completed a single box on HTB or any platform, nor did I know that was an option.
 
-The OSCP is slightly higher than mid-level certification, and as a complete beginner, I knew I needed something a little more my speed. Through some research, and some particularly helpful Reddit threads, I found the PNPT certification from TCM Security. Not only was it a steal at a couple of hundred bucks compared to the OSCP, but it explained every topic from the ground up. Where the OSCP would expect you to already have Kali Linux installed and configured, the PNPT guided you through the installation and setup service. This was extremely helpful as I had also never touched Linux before.
+The OSCP is slightly higher than mid-level certification, and as a complete beginner, I knew I needed something a little more beginner. Through some research, and some particularly helpful Reddit threads, I found the PNPT certification from TCM Security. Not only was it a steal at a couple of hundred bucks compared to the OSCP, but it explained every topic from the ground up. Where the OSCP would expect you to already have Kali Linux installed and configured, the PNPT guided you through the installation and setup. This was extremely helpful as I had also never touched Linux before.
 
-Over the next couple of months I progressed through the PNPT materials, often taking breaks to research other security topics, until I was ready to begin attempting hacking into my own boxes. I settled on Hack The Box as my subscription of choice and began progressing through TJ Null's list of boxes to prepare for the OSCP in the easiest order first. It was also in this time that I discovered IppSecs tutorials videos, for if it was not for I would probably not be here today. Just by watching and taking notes on IppSecs videos, I learned more about penetration testing than I did in the last month. From his hacking methodology to the way he simply explains obscure topics, his knowledge was invaluable wealth to me.
+Over the next couple of months I progressed through the PNPT materials, often taking breaks to research other security topics, until I was ready to begin attempting hacking into my own boxes. I settled on Hack The Box as my subscription of choice and began progressing through TJ Null's list of boxes in the easiest order first. It was also in this time that I discovered IppSecs tutorials videos, for if it was not for, I would probably not be here today. Just by watching and taking notes on IppSecs videos I learned more about penetration testing than I did in the last month. From his hacking methodology to the way he simply explains obscure topics, his knowledge was an invaluable wealth to me.
 
-At the same time, I also purchased the OSCP bundle to begin taking their training. After completing all the training materials and labs, accompanied by over fifty HTB boxes, I finally felt prepared to take the OSCP. It had just been about four months since I started, and I spent at least fifty hours a week working full-time just studying. 
+At the same time, I also purchased the OSCP bundle to begin taking their training. After completing all the training materials and labs, accompanied by over fifty HTB boxes, I finally felt prepared to take the OSCP. It had just been about four months since I started, and I spent at least fifty hours a week working full-time just studying. For those wondering how I did that working, I did not. I quit my job with enough savings to last me six months. 
 
 ## The Down Low
 
@@ -72,6 +63,16 @@ If you have done a few Hack The Box boxes with very minimal hints needed, active
 
 
 No matter what stage of learning you are in, notes are key. You will never remember every command or even the steps you took for that HTB box you solved a week ago. When pressure strikes in the exam, which it will, you are going to panic and run to whatever way you have been studying. If that means your notes are only a few pages long, most copy and pasted, and extraordinarily little personal notes, then you are absolutely going to fail. If your notes are organized, searchable, written out in your own language and never copied and pasted besides links and commands, cover every topic you have ever learned and include write-ups of your HTB boxes then there is no way you will fail. The OSCP tests your preparation, so if you have not put in the work, you will fail.
+
+## Tips
+
+Stuck on a box? Hop in the OSCP discord you now have access to and use the search function to find the name or IP of your box. Odds are someone has already run into the same issue and a student mentor was able to give them a few helpful hints. If you really cannot find any tips on where you are stuck, odds are you are in the wrong spot or completely missing something. Still think you are on the right path but need a hint? Feel free to @ the student mentors and they will get back to you when they can.
+
+When trying to access computers behind a network, instead of complex port forwarding with Chisel, take a look at Ligolo-ng. Ligolo-ng allows you to tunnel to a network like a VPN, giving you the ability to access those new machines with no added syntax to your commands.
+
+Too many times I got stuck because I did not have a variety of tools. Stuck on something that should work? Look up a different tool that does the same thing and try that one as well.
+
+The struggle is where you really learn. When you are banging your head against the desk hour after hour on the same part, you are really learning more than you could from any book. While it does not feel good in the moment, the triumph of solving an issue that felt impossible is the best feeling in the world. Cherish those moments where you feel like you cannot do it because every time you will triumph. 
 
 ## Now What?
 
