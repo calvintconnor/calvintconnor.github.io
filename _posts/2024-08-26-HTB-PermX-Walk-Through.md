@@ -1,5 +1,5 @@
 ---
-title: "Transfer Files To A Linux Machine"
+title: "Hack The Box (HTB) PermX Walk Through"
 layout: single
 read_time: true
 comments: true
@@ -28,7 +28,7 @@ I recommend viewing the post there for a better layout.
 
 PermX is an easy box involving out of date software, re-used passwords, and an abusable sudo-ran script.
 
-Recon
+# Recon
 
 We begin our recon with an nmap scan. I like to first gather all open ports, and then  use awk to quickly extract the port numbers for a longer scan.
 
@@ -164,7 +164,7 @@ fi
 
 Finally, it checks if the target is a file and puts all the information into the setfacl command.
 
-# Check if the path is a file 
+Check if the path is a file 
 if [ ! -f "$target" ]; then 
     /usr/bin/echo "Target must be a file." 
     exit 1
