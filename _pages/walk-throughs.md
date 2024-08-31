@@ -4,8 +4,8 @@ read_time: false
 comments: true
 share: true
 author_profile: false
-title: <br><br><br><br><br>Resume
-permalink: /walk throughs/
+title: <br><br><br><br><br>Walk Throughs
+permalink: /walk-throughs/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
