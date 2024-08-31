@@ -13,5 +13,5 @@ header:
   caption: "Photo: [Unsplash](Unsplash)"
 ---
 
-Check out my hacking notes for OSCP and beyond at [CTC Hacking Notes](https://calvin-connor.gitbook.io/hacking-notes/)
+Check out my hacking notes for OSCP and beyond at [Hacking Notes](https:/notes.hobbes-sec.com/hacking-notes/)
 
