@@ -8,6 +8,10 @@ main:
      url: /blog/
    - title: "Notes"
      url: /notes/
+   - title: "Walk Throughs"
+     url: /walk-throughs/
+   - title: "Test Link"
+     url: https://notes.hobbes-sec.com/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
