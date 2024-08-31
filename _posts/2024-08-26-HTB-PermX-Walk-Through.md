@@ -17,9 +17,11 @@ tags:
   - penetration testing
 ---
 
-This section is pulling from my online notes [here](https://calvin-connor.gitbook.io/hacking-notes/general/transferring-files/transferring-files-to-linux), or at https://notes.hobbes-sec.com/walk-throughs/hack-the-box/permx.
+This section is pulling from my online notes [here](https://notes.hobbes-sec.com/walk-throughs/hack-the-box/permx), or at https://notes.hobbes-sec.com/walk-throughs/hack-the-box/permx.
 
 I recommend viewing the post there for a better layout.
+
+
 
 
 
