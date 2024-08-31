@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Calvin T Connor"
+title                    : "Calvin Connor"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
@@ -106,16 +106,16 @@ analytics:
 author:
   name             : "Calvin Connor"
   avatar           : "/assets/C.png"
-  bio              : "OSCP and PNPT holder, HTB player, bodybuilder"
+  bio              : "Penetration Tester and SOC Analyst"
   location         : "Greensburg, PA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:calvintconnor@gmail.com"
+      url: "mailto:calvin@hobbes-sec.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://calvintconnor.github.io"
+      url: "https://hobbes-sec.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
